@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-kyc-and-shariah-screening
+description: "BIAN Service Domain: KYC And Shariah Screening (Process pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Shared Operations"
+  isb/asset-type: "KYC Shariah Assessment"
+  isb/control-record: "KYC Shariah Assessment Procedure"
